@@ -4,7 +4,7 @@ Repo for testing Autopsy hash tools
 ## Exercise 1: Import Hash into Autopsy
 
 - Imported the NSRL hash file into Autopsy.
-![alt text](Screenshot_E1.jpg>)
+![Screenshot](Screenshot_E1.jpg "E1")
 
 ## Exercise 2: Create Hash database of evidence
 
@@ -25,9 +25,9 @@ Repo for testing Autopsy hash tools
 - Added the notable file hashes to a new local hash set from a report (pic E2-3)
 - Autopsy flagged another file named 'gametour3.jpg' which was important.  This led to a couple of other gametour files that I added to the hash from R Click > Add to Hash Set.  It doesn't seem to refresh this, though.  It looks like you have to re-run the hash set ingest.  Kind of annoying!
 - 
-![Screenshot](screenshot_E2_3.jpg "E2-3")
+![Screenshot](Screenshot_E2_3.jpg "E2-3")
 
-![Screenshot](.\screenshots\screenshot_E2_4.jpg "E2-4")
+![Screenshot](Screenshot_E2_4.jpg "E2-4")
 
 
 
@@ -36,15 +36,15 @@ Repo for testing Autopsy hash tools
 - created a word doc, word_doc.docx, and added some dummy text.
 - WinHex was used to get the file hash value, and cross referenced against PS7 hash, both SHA256.
 
-![Screenshot](.\screenshots\screenshot_E3_1.jpg "E3-1")
+![Screenshot](Screenshot_E3_1.jpg "E3-1")
 
 - Opened the Jefferson quotes doc and used WinHex to get the SHA256 hash of the first sector 00 00 - 01 FF
   
-![Screenshot](.\screenshots\screenshot_E3_2.jpg "E3-2")
+![Screenshot](Screenshot_E3_2.jpg "E3-2")
 
 
 ## Exercise 4: Bit Shifting
 
 - Created a sample text file: bit_shift.txt from course text
 - Used Winhex to do a bit-shift-left on the above text file to "encrypt" it.  Saved as bit_shift_left.txt
-![Screenshot](.\screenshots\screenshot_E4_1.jpg "E4-1")
+![Screenshot](Screenshot_E4_1.jpg "E4-1")
