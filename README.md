@@ -4,7 +4,7 @@ Repo for testing Autopsy hash tools
 ## Exercise 1: Import Hash into Autopsy
 
 - Imported the NSRL hash file into Autopsy.
-![alt text](<screenshot_E1.jpg>)
+![alt text](Screenshot_E1.jpg>)
 
 ## Exercise 2: Create Hash database of evidence
 
@@ -15,7 +15,7 @@ Repo for testing Autopsy hash tools
   - Keyword
   - PhotoRec
   - Data source integrity
-  ![Screenshot](screenshot_E2_1.jpg "E2-1")
+  ![Screenshot](Screenshot_E2_1.jpg "E2-1")
 
 
 - Tagged the pictures as notable and generated a report (pic E2-2)
