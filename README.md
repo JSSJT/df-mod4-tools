@@ -4,7 +4,7 @@ Repo for testing Autopsy hash tools
 ## Exercise 1: Import Hash into Autopsy
 
 - Imported the NSRL hash file into Autopsy.
-![Screenshot of Task 1](.\screenshots\screenshot_E1.jpg "E1")
+![alt text](<screenshot_E1.jpg>)
 
 ## Exercise 2: Create Hash database of evidence
 
@@ -15,17 +15,17 @@ Repo for testing Autopsy hash tools
   - Keyword
   - PhotoRec
   - Data source integrity
-  ![Screenshot](.\screenshots\screenshot_E2_1.jpg "E2-1")
+  ![Screenshot](screenshot_E2_1.jpg "E2-1")
 
 
 - Tagged the pictures as notable and generated a report (pic E2-2)
-![Screenshot](.\screenshots\screenshot_E2_2.jpg "E2-2")
+![Screenshot](screenshot_E2_2.jpg "E2-2")
 
 
 - Added the notable file hashes to a new local hash set from a report (pic E2-3)
 - Autopsy flagged another file named 'gametour3.jpg' which was important.  This led to a couple of other gametour files that I added to the hash from R Click > Add to Hash Set.  It doesn't seem to refresh this, though.  It looks like you have to re-run the hash set ingest.  Kind of annoying!
 - 
-![Screenshot](.\screenshots\screenshot_E2_3.jpg "E2-3")
+![Screenshot](screenshot_E2_3.jpg "E2-3")
 
 ![Screenshot](.\screenshots\screenshot_E2_4.jpg "E2-4")
 
